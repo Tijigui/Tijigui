@@ -1,9 +1,14 @@
-### Hello! My name is Thiago 🤚
+<h1>Hello! My name is Thiago 🤚</h1>
 
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_guimarae/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santos-guimar%C3%A3es/)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/ThiagoGuimaraes)
+
+
+🧑🏻‍🎓 Estudando HTML, CSS, JavaScript, React.js, Bootstrap, SQL e Java.
+
+💻 Ferramentas Utilizadas: Figma, Visual Studio Code, Trello, Git, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tijigui&show_icons=true&theme=synthwavelogoColor=61DAF)
 
